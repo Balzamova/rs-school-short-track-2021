@@ -19,5 +19,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/rkhaslarov/rs-school-short-track-2021.git"
+  },
+  "dependencies": {
+    "editorconfig": "^0.15.3"
   }
 }
